@@ -1,10 +1,7 @@
-<<<<<<< homework9
 <<<<<<< HEAD
 target
 .idea
 =======
-=======
->>>>>>> master
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -44,7 +41,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
-<<<<<<< homework9
 >>>>>>> 021f8056b89f3a2da695d988e570e128878b95ba
-=======
->>>>>>> master
